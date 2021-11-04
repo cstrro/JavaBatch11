@@ -4,7 +4,7 @@ public class TaskPro07 {
 
 	public static void main(String[] args) {
 		// Write a java program to check whether a given number is prime or not?
-// prime numbers are numbers that is divisible by only two numbers 1 and itself
+// prime numbers are numbers that is divisible by only two numbers 1 and itself ..
 
 		boolean a = false;
 		int n = 621;
